@@ -1,0 +1,89 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.2 [P0] 撰写 1.2：数据类型与控制流": [
+      {
+        "executionId": "aae1aa8d-ca87-491c-8f3d-e819e6ce0fb3",
+        "chatSessionId": "sess_69b7583f-8455-4e56-a58d-709066465a54",
+        "timestamp": 1790633036147
+      },
+      {
+        "executionId": "aae1aa8d-ca87-491c-8f3d-e819e6ce0fb3",
+        "chatSessionId": "sess_69b7583f-8455-4e56-a58d-709066465a54",
+        "timestamp": 1790633297744
+      }
+    ],
+    "2.1 [P0] 撰写 2.1：pytest 进阶": [
+      {
+        "executionId": "ad963a29-27c0-4f7f-a44e-e3a017b344c4",
+        "chatSessionId": "sess_2ab54b3f-58bd-4df6-b67f-b1906450ac82",
+        "timestamp": 1790843616493
+      }
+    ],
+    "2.2 [P0] 撰写 2.2：mock": [
+      {
+        "executionId": "50b47388-52ac-4622-8daa-81b8bc18c943",
+        "chatSessionId": "sess_debc96c0-343d-429d-bca8-796248fc8b88",
+        "timestamp": 1790844921217
+      },
+      {
+        "executionId": "50b47388-52ac-4622-8daa-81b8bc18c943",
+        "chatSessionId": "sess_debc96c0-343d-429d-bca8-796248fc8b88",
+        "timestamp": 1790845890406
+      }
+    ],
+    "2.3 [P0] 撰写 2.3：接口自动化": [
+      {
+        "executionId": "347ad1d6-4263-4314-a098-4e6c1b6f2f62",
+        "chatSessionId": "sess_944748c5-272a-40d2-9c79-d7755c16e921",
+        "timestamp": 1790845982403
+      },
+      {
+        "executionId": "347ad1d6-4263-4314-a098-4e6c1b6f2f62",
+        "chatSessionId": "sess_944748c5-272a-40d2-9c79-d7755c16e921",
+        "timestamp": 1790847578463
+      }
+    ],
+    "2.4 [P0] 撰写 2.4：测试报告与 CI": [
+      {
+        "executionId": "14e7b9dd-fc8a-408b-8926-d5cedc99615a",
+        "chatSessionId": "sess_1a319b14-3431-4048-865f-cbfa60f8305c",
+        "timestamp": 1790847859285
+      },
+      {
+        "executionId": "14e7b9dd-fc8a-408b-8926-d5cedc99615a",
+        "chatSessionId": "sess_1a319b14-3431-4048-865f-cbfa60f8305c",
+        "timestamp": 1790848619872
+      }
+    ],
+    "2.5 [P0] 撰写 2.5：工具开发实战": [
+      {
+        "executionId": "de9193ee-744e-4d65-866c-3b7544448408",
+        "chatSessionId": "sess_c7f239a8-b271-4264-93bb-6ce2adf6b472",
+        "timestamp": 1790848686295
+      },
+      {
+        "executionId": "de9193ee-744e-4d65-866c-3b7544448408",
+        "chatSessionId": "sess_c7f239a8-b271-4264-93bb-6ce2adf6b472",
+        "timestamp": 1790852231914
+      }
+    ],
+    "7.1 [P0] 撰写 7.1：读懂项目 Go 代码": [
+      {
+        "executionId": "a331c7f2-6428-4fbc-becb-6efe1711ae3c",
+        "chatSessionId": "sess_2ab54b3f-58bd-4df6-b67f-b1906450ac82",
+        "timestamp": 1790852261669
+      },
+      {
+        "executionId": "43b6216a-c9a1-4a03-96ed-6ce526b2b06c",
+        "chatSessionId": "sess_2ab54b3f-58bd-4df6-b67f-b1906450ac82",
+        "timestamp": 1790856299670
+      },
+      {
+        "executionId": "43b6216a-c9a1-4a03-96ed-6ce526b2b06c",
+        "chatSessionId": "sess_2ab54b3f-58bd-4df6-b67f-b1906450ac82",
+        "timestamp": 1791169937490
+      }
+    ]
+  }
+}
